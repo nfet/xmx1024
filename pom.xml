@@ -20,7 +20,7 @@
 
         <aspectj-version>1.6.9</aspectj-version>
         <cglib-version>2.2.2</cglib-version>
-        <commons-collections.version>3.2.1</commons-collections.version>
+        <commons-collections.version>3.2.2</commons-collections.version>
         <commons-io.version>2.4</commons-io.version>
         <fest-assert.version>1.4</fest-assert.version>
         <freemarker.version>2.3.20</freemarker.version>
