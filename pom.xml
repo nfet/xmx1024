@@ -42,7 +42,7 @@
         <mail-version>1.4.5</mail-version>
         <sitemesh.version>3.0.1</sitemesh.version>
         <slf4j-version>1.5.10</slf4j-version>
-        <spring-security-version>4.1.5.RELEASE</spring-security-version>
+        <spring-security-version>4.2.17.RELEASE</spring-security-version>
         <spring-version>4.3.26.RELEASE</spring-version>
         <spring-data-jpa-version>1.11.23.RELEASE</spring-data-jpa-version>
         <rome.version>1.0</rome.version>
