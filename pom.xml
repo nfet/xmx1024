@@ -37,7 +37,7 @@
         <javax.servlet-api.version>3.0.1</javax.servlet-api.version>
         <jstl-version>1.2</jstl-version>
         <junit-version>4.12</junit-version>
-        <log4j-core-version>2.12.1</log4j-core-version>
+        <log4j-core-version>2.13.2</log4j-core-version>
         <loremipsum.version>1.0</loremipsum.version>
         <mail-version>1.4.5</mail-version>
         <sitemesh.version>3.0.1</sitemesh.version>
