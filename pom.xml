@@ -29,7 +29,7 @@
         <!--<hibernate-entitymanager-version>5.1.0.Final</hibernate-entitymanager-version>-->
         <hibernate-jpamodelgen-version>5.1.0.Final</hibernate-jpamodelgen-version>
         <hibernate-validator-version>5.1.0.Final</hibernate-validator-version>
-        <jackson-core.version>2.10.3</jackson-core.version>
+        <jackson-core.version>2.12.1</jackson-core.version>
         <jasypt-version>1.9.0</jasypt-version>
         <javax.inject.version>1</javax.inject.version>
         <joda-time-version>2.1</joda-time-version>
